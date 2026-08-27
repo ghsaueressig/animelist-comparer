@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Comparador de Listas de Anime</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="app">
+    <h1>🎌 Comparador de Listas de Anime — Quiz</h1>
+    <div id="controls">
+      <div>
+        <label for="search">Buscar título:</label>
+        <input type="text" id="search" placeholder="filtrar por título..." oninput="render()" />
+      </div>
+      <div>
+        <label for="status-filter">Status:</label>
+        <select id="status-filter" onchange="render()">
+          <option value="">Todos</option>
+          <option value="F" selected>Completados</option>
+          <option value="C">Assistindo</option>
+          <option value="H">Em espera</option>
+          <option value="D">Abandonados</option>
+          <option value="P">Planejados</option>
+        </select>
+      </div>
+      <div>
+        <label for="sort-by">Ordenar por:</label>
+        <select id="sort-by" onchange="render()">
+          <option value="title">Título (A-Z)</option>
+          <option value="score-desc">Nota (maior primeiro)</option>
+          <option value="score-asc">Nota (menor primeiro)</option>
+        </select>
+      </div>
+      <div class="toggle-group" id="users-toggle-group">
+        <label>Usuários:</label>
+      </div>
+    </div>
+    <div id="mode-bar">
+      <span>Modo:</span>
+      <button class="mode-btn active" id="mode-individual" onclick="setMode('individual')">📋 Listas Individuais</button>
+      <button class="mode-btn" id="mode-compare" onclick="setMode('compare')">🔍 Comparar Listas</button>
+    </div>
+    <div id="info-bar">—</div>
+    <div id="content"></div>
+  </div>
+  <script src="js/app.js"></script>
+</body>
+</html>
