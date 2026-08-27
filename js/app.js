@@ -1,6 +1,6 @@
 /**
  * Comparador de Listas de Anime
- * Integração robusta via Jikan API v4 (MyAnimeList Open API)
+ * Integração de alta disponibilidade (MAL XML + Fallback)
  */
 
 let RAW_DATA = {};
@@ -8,11 +8,11 @@ let USERS = [];
 let activeUsers = new Set();
 let currentMode = 'individual';
 
-// Inicialização: carrega dados locais padrão
+// Inicialização
 async function init() {
   try {
     const response = await fetch('data/anime-data.json');
-    if (!response.ok) throw new Error('Não foi possível carregar o arquivo local.');
+    if (!response.ok) throw new Error('Não foi possível carregar os dados locais padrão.');
     RAW_DATA = await response.json();
     USERS = Object.keys(RAW_DATA);
     activeUsers = new Set(USERS);
@@ -25,11 +25,9 @@ async function init() {
   }
 }
 
-// Pequeno delay para respeitar o rate limit da Jikan API (3 req/seg)
-const delay = (ms) => new Promise(res => setTimeout(res, ms));
-
 /**
- * Busca a lista do usuário utilizando a API pública Jikan v4
+ * Busca a lista completa do MyAnimeList utilizando o endpoint de export XML
+ * que retorna todos os animes em 1 única requisição rápida, sem rate limits nem 504.
  */
 async function fetchMalUser() {
   const input = document.getElementById('mal-user-input');
@@ -54,75 +52,72 @@ async function fetchMalUser() {
 
   btn.disabled = true;
   loadingIndicator.style.display = 'inline';
-  loadingIndicator.textContent = `⏳ Buscando lista de "${username}"...`;
+  loadingIndicator.textContent = `⏳ Buscando lista de "${username}" no MyAnimeList...`;
 
   try {
-    let allEntries = [];
-    let page = 1;
-    let hasNextPage = true;
+    const targetUrl = `https://myanimelist.net/malappinfo.php?u=${encodeURIComponent(username)}&status=all&type=anime`;
+    
+    // Tentativa com proxies CORS rápidos
+    const proxies = [
+      `https://corsproxy.io/?url=${encodeURIComponent(targetUrl)}`,
+      `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`
+    ];
 
-    while (hasNextPage) {
-      loadingIndicator.textContent = `⏳ Buscando página ${page} de "${username}"...`;
-      
-      const endpoint = `https://api.jikan.moe/v4/users/${encodeURIComponent(username)}/animelist?page=${page}`;
-      const response = await fetch(endpoint);
+    let xmlText = null;
+    let lastError = null;
 
-      if (response.status === 404) {
-        throw new Error('Usuário não encontrado ou a lista é privada.');
-      }
-      
-      if (response.status === 429) {
-        // Rate limit atingido, aguarda 1.5 segundos e tenta novamente
-        await delay(1500);
-        continue;
-      }
-
-      if (!response.ok) {
-        throw new Error(`Erro na requisição: status ${response.status}`);
-      }
-
-      const resJson = await response.json();
-      const pageData = resJson.data || [];
-
-      if (pageData.length === 0) {
-        hasNextPage = false;
-      } else {
-        allEntries = allEntries.concat(pageData);
-        hasNextPage = resJson.pagination?.has_next_page ?? false;
-        page++;
-        if (hasNextPage) {
-          await delay(400); // Respeita os limites da API
+    for (const url of proxies) {
+      try {
+        const res = await fetch(url);
+        if (res.ok) {
+          xmlText = await res.text();
+          if (xmlText && xmlText.includes('<anime>')) break;
         }
+      } catch (e) {
+        lastError = e;
       }
     }
 
-    if (allEntries.length === 0) {
-      alert(`Nenhum anime encontrado para o usuário "${username}". Verifique se o perfil e a lista são públicos.`);
+    if (!xmlText || !xmlText.includes('<anime>')) {
+      if (xmlText && xmlText.includes('<error>')) {
+        throw new Error('Usuário não encontrado no MyAnimeList ou lista privada.');
+      }
+      throw new Error('Servidor do MyAnimeList não respondeu no momento. Tente novamente em instantes.');
+    }
+
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+    const animeNodes = xmlDoc.getElementsByTagName('anime');
+
+    if (animeNodes.length === 0) {
+      alert(`Nenhum anime encontrado para o usuário "${username}".`);
       return;
     }
 
-    // Mapeamento dos status da Jikan API para o comparador
-    // Status retornados: "watching", "completed", "on_hold", "dropped", "plan_to_watch"
     const statusMap = {
-      'watching': { status: 'Watching', statusCode: 'C' },
-      'completed': { status: 'Completed', statusCode: 'F' },
-      'on_hold': { status: 'On Hold', statusCode: 'H' },
-      'dropped': { status: 'Dropped', statusCode: 'D' },
-      'plan_to_watch': { status: 'Planned', statusCode: 'P' }
+      '1': { status: 'Watching', statusCode: 'C' },
+      '2': { status: 'Completed', statusCode: 'F' },
+      '3': { status: 'On Hold', statusCode: 'H' },
+      '4': { status: 'Dropped', statusCode: 'D' },
+      '6': { status: 'Planned', statusCode: 'P' }
     };
 
-    const formattedList = allEntries.map(item => {
-      const rawStatus = (item.watching_status || '').toLowerCase();
-      const st = statusMap[rawStatus] || { status: 'Unknown', statusCode: 'O' };
-      return {
-        title: item.entry?.title || 'Sem título',
-        score: parseInt(item.score, 10) || 0,
+    const formattedList = [];
+    for (let i = 0; i < animeNodes.length; i++) {
+      const node = animeNodes[i];
+      const title = node.getElementsByTagName('series_title')[0]?.textContent || 'Sem título';
+      const score = parseInt(node.getElementsByTagName('my_score')[0]?.textContent || '0', 10);
+      const statusCode = node.getElementsByTagName('my_status')[0]?.textContent || '0';
+      const st = statusMap[statusCode] || { status: 'Outro', statusCode: 'O' };
+
+      formattedList.push({
+        title: title,
+        score: score,
         status: st.status,
         statusCode: st.statusCode
-      };
-    });
+      });
+    }
 
-    // Adiciona o usuário na memória da aplicação
     RAW_DATA[userKey] = {
       username: username + ' (MAL)',
       isDynamic: true,
@@ -138,7 +133,7 @@ async function fetchMalUser() {
     renderUserButtons();
     render();
 
-    alert(`Lista de "${username}" importada com sucesso (${formattedList.length} animes encontrados)!`);
+    alert(`Lista de "${username}" importada com sucesso (${formattedList.length} animes carregados)!`);
   } catch (err) {
     console.error(err);
     alert(`Não foi possível carregar a lista de "${username}". Detalhes: ${err.message}`);
