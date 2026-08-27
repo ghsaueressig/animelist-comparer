@@ -1,0 +1,4103 @@
+{
+  "lgrings": {
+    "username": "lgrings",
+    "list": [
+      {
+        "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Bungou Stray Dogs",
+        "score": 0, 
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Chiyu Mahou no Machigatta Tsukaikata",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Jigoku Shoujo",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Kami wa Game ni Ueteiru.",
+        "score": 5,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Konjiki no Gash Bell!!",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Kumo desu ga, Nani ka?",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Majo to Yajuu",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Meiji Gekken: 1874",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Metallic Rouge",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Munou na Nana",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Nozomanu Fushi no Boukensha",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "One Piece",
+        "score": 10,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Ore dake Level Up na Ken",
+        "score": 10,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Platinum End",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Re:Monster",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Saihate no Paladin",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Takt Op. Destiny",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken 2nd Season",
+        "score": 9,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken 3rd Season",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Wind Breaker",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "World Trigger",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Yamada-kun to 7-nin no Majo",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Yu☆Gi☆Oh!",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "2.43: Seiin Koukou Danshi Volley-bu",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Akame ga Kill!",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Another",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ansatsu Kyoushitsu",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ansatsu Kyoushitsu 2nd Season",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ao no Exorcist",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Arifureta Shokugyou de Sekai Saikyou",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Assassins Pride",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: Mechtanium Surge",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: New Vestroia",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ballroom e Youkoso",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bleach",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bleach: Sennen Kessen-hen",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku dake ga Inai Machi",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 2nd Season",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 3rd Season",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 4th Season",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dead Mount Death Play",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Digimon Universe: Appli Monsters",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dr. Stone",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Super",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Durarara!!",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fairy Tail",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fairy Tail (2014)",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fairy Tail: Final Series",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Final Fantasy VII: Advent Children",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Free!",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fuuka",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Gakusen Toshi Asterisk",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Gangsta.",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hachi-nan tte, Sore wa Nai deshou!",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!!",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! Second Season",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! To the Top",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! To the Top Part 2",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hanebado!",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hundred",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Inazuma Eleven",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Initial D First Stage",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Isekai Cheat Magician",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jigokuraku",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken (TV)",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen 0 Movie",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen 2nd Season",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kakegurui",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kakegurui××",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kanojo, Okarishimasu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Karakuri Circus",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kenja no Mago",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kikansha no Mahou wa Tokubetsu desu",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Koi to Uso",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Koutetsujou no Kabaneri",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: Sinbad no Bouken (TV)",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: The Kingdom of Magic",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: The Labyrinth of Magic",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mahouka Koukou no Rettousei",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mahoutsukai no Yome",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Maou-sama, Retry!",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Masamune-kun no Revenge",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mashle",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "MF Ghost",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mirai Nikki (TV)",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mob Psycho 100",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mob Psycho 100 II",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Seisen no Shirushi",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "No Game No Life",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Noragami",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Noragami Aragoto",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man 2nd Season",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord II",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord III",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord IV",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph: Nagoya Kessen-hen",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Rakudai Kishi no Cavalry",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shigatsu wa Kimi no Uso",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 2",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shironeko Project: Zero Chronicle",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: Ni no Sara",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: San no Sara",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: Shin no Sara",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sirius",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sousei no Onmyouji",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online II",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online: Alicization",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online: Alicization - War of Underworld",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tate no Yuusha no Nariagari",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "The God of High School",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tsuki ga Kirei",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ulysses: Jehanne Darc to Renkin no Kishi",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Violet Evergarden",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yesterday wo Utatte",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Absolute Duo",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Banana Fish",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Beatless",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Black Clover",
+        "score": 6,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Boruto: Naruto Next Generations",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Bungou to Alchemist: Shinpan no Haguruma",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "score": 3,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "D.Gray-man",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Darling in the FranXX",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Darwin's Game",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Death Note",
+        "score": 7,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Death Parade",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Dies Irae",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Domestic na Kanojo",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Dororo",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Enen no Shouboutai",
+        "score": 6,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Fairy Gone",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Fate/stay night",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Gakusen Toshi Asterisk 2nd Season",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Gekkan Shoujo Nozaki-kun",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Gintama",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Gleipnir",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Goblin Slayer",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Guilty Crown",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Hagure Yuusha no Aesthetica",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Hajimete no Gal",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Hellsing",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "High School DxD",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "High School DxD BorN",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "High School DxD Hero",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "score": 5,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kill la Kill",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Killing Bites",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kiss x Sis (TV)",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kuroko no Basket",
+        "score": 4,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kuroshitsuji",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Naruto",
+        "score": 6,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Naruto: Shippuuden",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Phantom in the Twilight",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Plunderer",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Radiant",
+        "score": 4,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Re:Creators",
+        "score": 4,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Saijaku Muhai no Bahamut",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Samurai Flamenco",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Satsuriku no Tenshi",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Seikon no Qwaser",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shingeki no Bahamut: Virgin Soul",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 3",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shingeki no Kyojin: The Final Season",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shinmai Maou no Testament",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shinmai Maou no Testament Burst",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Soul Eater",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Strike the Blood",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Tengen Toppa Gurren Lagann",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Vinland Saga",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Witch Craft Works",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Yakusoku no Neverland",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Youkai Apartment no Yuuga na Nichijou",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! Duel Monsters GX",
+        "score": 6,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Burn the Witch",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Enen no Shouboutai: Ni no Shou",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Fairy Tail Movie 2: Dragon Cry",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Hortensia Saga",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kemono Jihen",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "King's Raid: Ishi wo Tsugumono-tachi",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Log Horizon",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Magatsu Wahrheit: Zuerst",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Majo no Tabitabi",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mushikago no Cagaster",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Ore dake Haireru Kakushi Dungeon",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Project Scard: Praeter no Kizu",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Steins;Gate",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Yuukoku no Moriarty",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      }
+    ]
+  },
+  "duduzaum": {
+    "username": "DuDuzaum",
+    "list": [
+      {
+        "title": "Bokutachi wa Benkyou ga Dekinai!",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Gimai Seikatsu",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Horimiya",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Jujutsu Kaisen 2nd Season",
+        "score": 10,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Koi wa Futago de Warikirenai",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Koroshi Ai",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Mashle",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "One Piece",
+        "score": 10,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Senpai ga Uzai Kouhai no Hanashi",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+        "score": 6,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Shingeki no Kyojin: The Final Season",
+        "score": 10,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Shuumatsu no Walküre",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Sousou no Frieren",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Takt Op. Destiny",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "[Oshi no Ko]",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "3D Kanojo: Real Girl",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "3D Kanojo: Real Girl 2nd Season",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "5-toubun no Hanayome",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "5-toubun no Hanayome ∬",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "7 Seeds",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Akame ga Kill!",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ansatsu Kyoushitsu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ansatsu Kyoushitsu 2nd Season",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ao Ashi",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ao no Exorcist",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: Mechtanium Surge",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakugan Battle Brawlers: New Vestroia",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Black Clover",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bleach",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Blue Lock",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku dake ga Inai Machi",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 2nd Season",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 3rd Season",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 4th Season",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 5th Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bokutachi no Remake",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Charlotte",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dandadan",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Darling in the FranXX",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Darwin's Game",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Death Note",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Death Parade",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Domestic na Kanojo",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dr. Stone",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball GT",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Kai",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Kai (2014)",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Super",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Z",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Eromanga-sensei",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fairy Tail",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Free!",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Free! Dive to the Future",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Free! Eternal Summer",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fullmetal Alchemist",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Gabriel DropOut",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Gekkan Shoujo Nozaki-kun",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Goblin Slayer",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Golden Time",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Grand Blue",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Great Pretender",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!!",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! (OVA)",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! Second Season",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Haikyuu!! To the Top",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hajimete no Gal",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hataraku Saibou",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jibaku Shounen Hanako-kun",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jigokuraku",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kakegurui",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kakegurui××",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kami no Tou",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kanojo mo Kanojo",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kanojo, Okarishimasu",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kenja no Mago",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba: Yuukaku-hen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kodai Ouja Kyouryuu King: Yokuryuu Densetsu",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Koi to Uso",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Koi to Yobu ni wa Kimochi Warui",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Koi wa Sekai Seifuku no Ato de",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Komi-san wa, Comyushou desu.",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kuroko no Basket",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kuroko no Basket 2nd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kuroko no Basket 3rd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kuroko no Basket Movie 4: Last Game",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Liar Liar",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: Sinbad no Bouken (TV)",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mahouka Koukou no Rettousei",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Masamune-kun no Revenge",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Masamune-kun no Revenge R",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mirai Nikki",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mirai Nikki (TV)",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mirai Nikki: Redial",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Seisen no Shirushi",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Naruto",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Naruto: Shippuuden",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nisekoi",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nisekoi:",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "No Game No Life",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man 2nd Season",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore dake Level Up na Ken",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore Monogatari!!",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore wo Suki nano wa Omae dake ka yo",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord II",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord III",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph: Nagoya Kessen-hen",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon Best Wishes! Season 2",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon XY",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Rakudai Kishi no Cavalry",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saenai Heroine no Sodatekata",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saenai Heroine no Sodatekata ♭",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saenai Heroine no Sodatekata Fine",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan (ONA)",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan 2",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sakamoto desu ga?",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sakura-sou no Pet na Kanojo",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Seirei Gensouki",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shigatsu wa Kimi no Uso",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 3",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: Ni no Sara",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: San no Sara",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shokugeki no Souma: Shin no Sara",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sono Bisque Doll wa Koi wo Suru",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online II",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sword Art Online: Alicization - War of Underworld Reflection",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tantei wa Mou, Shindeiru.",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tate no Yuusha no Nariagari",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tengen Toppa Gurren Lagann",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "The God of High School",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "score": 3,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul:re 2nd Season",
+        "score": 2,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Revengers",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tomo-chan wa Onnanoko!",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tonikaku Kawaii",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Toradora!",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tsuki ga Kirei",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Violet Evergarden",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Wotaku ni Koi wa Muzukashii",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yakusoku no Neverland",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yamada-kun to 7-nin no Majo",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! 5D's",
+        "score": 5,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! Duel Monsters",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! Duel Monsters GX",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yuu☆Yuu☆Hakusho",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "score": 3,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Bakemonogatari",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Boruto: Naruto Next Generations",
+        "score": 4,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Eiyuu Kyoushitsu",
+        "score": 3,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Enen no Shouboutai",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Fairy Tail (2014)",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Fairy Tail: Final Series",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Gintama",
+        "score": 5,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Golden Kamuy",
+        "score": 3,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Hellsing Ultimate",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken (TV)",
+        "score": 3,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kami wa Game ni Ueteiru.",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Kiss x Sis (TV)",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Nanatsu no Maken ga Shihai suru",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+        "score": 2,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Soul Eater",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Vinland Saga",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Yosuga no Sora",
+        "score": 1,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "91 Days",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Akudama Drive",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Amagi Brilliant Park",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Ao Haru Ride",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Asobi Asobase",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Baka to Test to Shoukanjuu",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Chuunibyou demo Koi ga Shitai! Ren",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Dr. Stone: Stone Wars",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Free! Take Your Marks",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kaichou wa Maid-sama!",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kakushigoto",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kyokou Suiri",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kyokou Suiri Season 2",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Lovely★Complex",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mahoutsukai no Yome",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Majo no Tabitabi",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Maoyuu Maou Yuusha",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mushishi Zoku Shou 2nd Season",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Odd Taxi",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Saihate no Paladin",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Steins;Gate",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "The Perfect World",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Tsurezure Children",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Vanitas no Karte",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Yakusoku no Neverland 2nd Season",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Yesterday wo Utatte",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      }
+    ]
+  },
+  "cbawe": {
+    "username": "Cbawe",
+    "list": [
+      {
+        "title": "Boku no Hero Academia 6th Season",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Boruto: Naruto the Movie",
+        "score": 7,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Dagashi Kashi",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Dr. Stone: Ryuusui",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Odd Taxi",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "One Piece",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Spy x Family Part 2",
+        "score": 8,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "The Last: Naruto the Movie",
+        "score": 5,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Violet Evergarden",
+        "score": 0,
+        "status": "Watching",
+        "statusCode": "C"
+      },
+      {
+        "title": "Akira",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Bakemonogatari",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Beastars",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 2nd Season",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 3rd Season",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 4th Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Boku no Hero Academia 5th Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Chainsaw Man",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Charlotte",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Charlotte: Tsuyoimono-tachi",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Cowboy Bebop",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Darling in the FranXX",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Deatte 5-byou de Battle",
+        "score": 1,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dorohedoro",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dororo",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dr. Stone",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dr. Stone: Stone Wars",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball GT",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Kai",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Kai (2014)",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Super",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dragon Ball Z",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Edens Zero",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Eromanga-sensei",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fullmetal Alchemist",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Gake no Ue no Ponyo",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Goblin Slayer",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Grand Blue",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Great Pretender",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD BorN",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD Hero",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD OVA",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "High School DxD Specials",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter Movie 1: Phantom Rouge",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Hunter x Hunter Movie 2: The Last Mission",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ijiranaide, Nagatoro-san",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Itadaki! Seieki♥ Special",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken (TV)",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Jujutsu Kaisen Official PVs",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kami no Tou",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kimetsu no Yaiba: Yuukaku-hen",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kishibe Rohan wa Ugokanai",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kobayashi-san Chi no Maid Dragon",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Komi-san wa, Comyushou desu.",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Kyokou Suiri",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Made in Abyss",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: Sinbad no Bouken (TV)",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: The Kingdom of Magic",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Magi: The Labyrinth of Magic",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mahouka Koukou no Rettousei",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mieruko-chan",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mob Psycho 100",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mob Psycho 100 II",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai OVA",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Nanatsu no Taizai: Seisen no Shirushi",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Naruto",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Naruto: Shippuuden",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Noragami",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "One Punch Man 2nd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ore Monogatari!!",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord II",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Overlord III",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph: Kyuuketsuki Shahar",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Owari no Seraph: Nagoya Kessen-hen",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon XY",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Pokemon: The Origin",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Radiant",
+        "score": 4,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Rakudai Kishi no Cavalry",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Rokka no Yuusha",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Saiki Kusuo no Ψ-nan 2",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sakamoto desu ga?",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sekikashita Kusanagi",
+        "score": 0,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin OVA",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 2",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 3",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin: Ano Hi Kara",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Shingeki no Kyojin: The Final Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Sono Bisque Doll wa Koi wo Suru",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Spy x Family",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tate no Yuusha no Nariagari",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken 2nd Season",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "The God of High School",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "The Perfect World",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "score": 6,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Tokyo Ghoul:re 2nd Season",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Trigun Stampede",
+        "score": 10,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "UQ Holder! Mahou Sensei Negima! 2",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "UQ Holder! Mahou Sensei Negima! 2 OVA",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ushio to Tora",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ushio to Tora (TV)",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Ushio to Tora (TV) 2nd Season",
+        "score": 8,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yakusoku no Neverland",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Yofukashi no Uta",
+        "score": 7,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "score": 9,
+        "status": "Completed",
+        "statusCode": "F"
+      },
+      {
+        "title": "Fairy Tail",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Shinseiki Evangelion",
+        "score": 5,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Tantei wa Mou, Shindeiru.",
+        "score": 0,
+        "status": "Dropped",
+        "statusCode": "D"
+      },
+      {
+        "title": "Afro Samurai",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Afro Samurai Movie",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Beastars 2nd Season",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Buddy Daddies",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "FLCL",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Gokushufudou",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "High School DxD New: Oppai, Tsutsumimasu!",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Initial D First Stage",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Jigokuraku",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Jujutsu Kaisen 0 Movie",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kawaii dake ja Nai Shikimori-san",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kill la Kill",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Koe no Katachi",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Koukaku Kidoutai",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Kyokou Suiri Season 2",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mashle",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mob Psycho 100 III",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Nozomanu Fushi no Boukensha",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Radiant 2nd Season",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Shigatsu wa Kimi no Uso",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Tengen Toppa Gurren Lagann",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "To LOVE-Ru Darkness 2nd",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Tonari no Totoro",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Toradora!",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Totsukuni no Shoujo",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Trigun",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Trigun Stargaze",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Yakusoku no Neverland 2nd Season",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      },
+      {
+        "title": "Yuu☆Yuu☆Hakusho",
+        "score": 0,
+        "status": "Planned",
+        "statusCode": "P"
+      }
+    ]
+  }
+}
