@@ -1,5 +1,6 @@
 /**
- * Comparador de Listas de Anime com Suporte a API do MyAnimeList
+ * Comparador de Listas de Anime
+ * Integração robusta via Jikan API v4 (MyAnimeList Open API)
  */
 
 let RAW_DATA = {};
@@ -7,11 +8,11 @@ let USERS = [];
 let activeUsers = new Set();
 let currentMode = 'individual';
 
-// Inicialização: carrega os dados locais padrão (lgrings, duduzaum, cbawe)
+// Inicialização: carrega dados locais padrão
 async function init() {
   try {
     const response = await fetch('data/anime-data.json');
-    if (!response.ok) throw new Error('Não foi possível carregar os dados locais padrão.');
+    if (!response.ok) throw new Error('Não foi possível carregar o arquivo local.');
     RAW_DATA = await response.json();
     USERS = Object.keys(RAW_DATA);
     activeUsers = new Set(USERS);
@@ -24,9 +25,11 @@ async function init() {
   }
 }
 
+// Pequeno delay para respeitar o rate limit da Jikan API (3 req/seg)
+const delay = (ms) => new Promise(res => setTimeout(res, ms));
+
 /**
- * Função para buscar a lista de animes de um usuário do MyAnimeList
- * Utiliza o endpoint público load.json do MAL através de um proxy CORS
+ * Busca a lista do usuário utilizando a API pública Jikan v4
  */
 async function fetchMalUser() {
   const input = document.getElementById('mal-user-input');
@@ -41,7 +44,6 @@ async function fetchMalUser() {
 
   const userKey = username.toLowerCase();
 
-  // Verifica se já está carregado
   if (RAW_DATA[userKey]) {
     activeUsers.add(userKey);
     renderUserButtons();
@@ -52,60 +54,75 @@ async function fetchMalUser() {
 
   btn.disabled = true;
   loadingIndicator.style.display = 'inline';
-  loadingIndicator.textContent = `⏳ Buscando lista de "${username}" no MyAnimeList...`;
+  loadingIndicator.textContent = `⏳ Buscando lista de "${username}"...`;
 
   try {
     let allEntries = [];
-    let offset = 0;
-    let hasMore = true;
+    let page = 1;
+    let hasNextPage = true;
 
-    // Paginação para buscar toda a lista do usuário (em blocos de 300)
-    while (hasMore) {
-      const targetUrl = `https://myanimelist.net/animelist/${encodeURIComponent(username)}/load.json?offset=${offset}&status=7`;
-      const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`;
+    while (hasNextPage) {
+      loadingIndicator.textContent = `⏳ Buscando página ${page} de "${username}"...`;
       
-      const response = await fetch(proxyUrl);
-      if (!response.ok) throw new Error(`Falha na requisição (Status: ${response.status})`);
+      const endpoint = `https://api.jikan.moe/v4/users/${encodeURIComponent(username)}/animelist?page=${page}`;
+      const response = await fetch(endpoint);
+
+      if (response.status === 404) {
+        throw new Error('Usuário não encontrado ou a lista é privada.');
+      }
       
-      const data = await response.json();
-      
-      if (!Array.isArray(data) || data.length === 0) {
-        hasMore = false;
+      if (response.status === 429) {
+        // Rate limit atingido, aguarda 1.5 segundos e tenta novamente
+        await delay(1500);
+        continue;
+      }
+
+      if (!response.ok) {
+        throw new Error(`Erro na requisição: status ${response.status}`);
+      }
+
+      const resJson = await response.json();
+      const pageData = resJson.data || [];
+
+      if (pageData.length === 0) {
+        hasNextPage = false;
       } else {
-        allEntries = allEntries.concat(data);
-        offset += data.length;
-        if (data.length < 300) {
-          hasMore = false;
+        allEntries = allEntries.concat(pageData);
+        hasNextPage = resJson.pagination?.has_next_page ?? false;
+        page++;
+        if (hasNextPage) {
+          await delay(400); // Respeita os limites da API
         }
       }
     }
 
     if (allEntries.length === 0) {
-      alert(`Nenhum anime público encontrado para o usuário "${username}". Verifique o nome ou a privacidade da lista.`);
+      alert(`Nenhum anime encontrado para o usuário "${username}". Verifique se o perfil e a lista são públicos.`);
       return;
     }
 
-    // Mapeamento dos status numéricos do MAL para o formato do app:
-    // 1: Watching (C), 2: Completed (F), 3: On Hold (H), 4: Dropped (D), 6: Plan to Watch (P)
+    // Mapeamento dos status da Jikan API para o comparador
+    // Status retornados: "watching", "completed", "on_hold", "dropped", "plan_to_watch"
     const statusMap = {
-      1: { status: 'Watching', statusCode: 'C' },
-      2: { status: 'Completed', statusCode: 'F' },
-      3: { status: 'On Hold', statusCode: 'H' },
-      4: { status: 'Dropped', statusCode: 'D' },
-      6: { status: 'Planned', statusCode: 'P' }
+      'watching': { status: 'Watching', statusCode: 'C' },
+      'completed': { status: 'Completed', statusCode: 'F' },
+      'on_hold': { status: 'On Hold', statusCode: 'H' },
+      'dropped': { status: 'Dropped', statusCode: 'D' },
+      'plan_to_watch': { status: 'Planned', statusCode: 'P' }
     };
 
     const formattedList = allEntries.map(item => {
-      const st = statusMap[item.status] || { status: 'Unknown', statusCode: 'O' };
+      const rawStatus = (item.watching_status || '').toLowerCase();
+      const st = statusMap[rawStatus] || { status: 'Unknown', statusCode: 'O' };
       return {
-        title: item.anime_title || item.title || 'Sem título',
+        title: item.entry?.title || 'Sem título',
         score: parseInt(item.score, 10) || 0,
         status: st.status,
         statusCode: st.statusCode
       };
     });
 
-    // Registra novo usuário nos dados da sessão
+    // Adiciona o usuário na memória da aplicação
     RAW_DATA[userKey] = {
       username: username + ' (MAL)',
       isDynamic: true,
@@ -124,7 +141,7 @@ async function fetchMalUser() {
     alert(`Lista de "${username}" importada com sucesso (${formattedList.length} animes encontrados)!`);
   } catch (err) {
     console.error(err);
-    alert(`Não foi possível carregar a lista de "${username}". Certifique-se de que a lista no MyAnimeList seja pública.`);
+    alert(`Não foi possível carregar a lista de "${username}". Detalhes: ${err.message}`);
   } finally {
     btn.disabled = false;
     loadingIndicator.style.display = 'none';
