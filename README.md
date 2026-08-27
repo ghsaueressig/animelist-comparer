@@ -1,10 +1,8 @@
-# 🎌 Comparador de Listas de Anime
+# 🎌 Comparador de Listas de Anime (com Integração MyAnimeList)
 
-Projeto configurado e modularizado para hospedagem direta no **GitHub Pages**.
+Aplicação web estática pronta para o **GitHub Pages**, com listas de exemplo pré-carregadas e suporte para importar dinamicamente qualquer perfil público do **MyAnimeList**.
 
-## 📁 Estrutura de Arquivos
-
-- `index.html`: Arquivo principal da aplicação.
-- `css/styles.css`: Estilização e layout responsivo.
-- `js/app.js`: Lógica de filtragem, renderização e carregamento dinâmico.
-- `data/anime-data.json`: Base de dados separada por usuário.
+## ✨ Funcionalidades
+1. **Listas Padrão:** Carrega instantaneamente os dados de exemplo a partir do arquivo local `data/anime-data.json`.
+2. **Integração MAL:** Campo de busca no topo para digitar qualquer username do MyAnimeList e importar automaticamente toda a lista pública do usuário via requisição com paginação.
+3. **Comparação Dinâmica:** Permite alternar, ligar/desligar e comparar notas e status entre usuários locais e importados em tempo real.
