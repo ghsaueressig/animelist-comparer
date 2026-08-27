@@ -3,12 +3,22 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Comparador de Listas de Anime</title>
+  <title>Comparador de Listas de Anime — MyAnimeList</title>
   <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
   <div id="app">
-    <h1>🎌 Comparador de Listas de Anime — Quiz</h1>
+    <header>
+      <h1>🎌 Comparador de Listas de Anime</h1>
+      
+      <!-- Seção de consulta e inclusão dinâmica de usuário do MyAnimeList -->
+      <div class="mal-import-box">
+        <label for="mal-user-input"><strong>+ Comparar com MAL:</strong></label>
+        <input type="text" id="mal-user-input" placeholder="Usuário MyAnimeList..." onkeydown="if(event.key==='Enter') fetchMalUser()" />
+        <button id="mal-fetch-btn" onclick="fetchMalUser()">Importar Lista</button>
+      </div>
+    </header>
+
     <div id="controls">
       <div>
         <label for="search">Buscar título:</label>
@@ -37,14 +47,21 @@
         <label>Usuários:</label>
       </div>
     </div>
+
     <div id="mode-bar">
       <span>Modo:</span>
       <button class="mode-btn active" id="mode-individual" onclick="setMode('individual')">📋 Listas Individuais</button>
       <button class="mode-btn" id="mode-compare" onclick="setMode('compare')">🔍 Comparar Listas</button>
     </div>
-    <div id="info-bar">—</div>
+
+    <div id="info-bar">
+      <span id="info-status">Carregando listas iniciais...</span>
+      <span id="mal-loading-indicator" style="display:none; color: #2e51a2; font-weight: bold;">⏳ Carregando dados do MyAnimeList...</span>
+    </div>
+    
     <div id="content"></div>
   </div>
+
   <script src="js/app.js"></script>
 </body>
 </html>
