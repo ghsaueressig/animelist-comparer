@@ -14,16 +14,68 @@ body {
 #app {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 12px;
+}
+
+header {
+  border-bottom: 2px solid #333;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 h1 {
   font-size: 18px;
-  margin-bottom: 10px;
-  border-bottom: 2px solid #333;
-  padding-bottom: 5px;
+  color: #111;
 }
 
+/* MAL Import Box */
+.mal-import-box {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #aaa;
+  padding: 4px 8px;
+  border-radius: 3px;
+}
+
+.mal-import-box input {
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  font-family: monospace;
+  font-size: 12px;
+  width: 180px;
+  border-radius: 2px;
+}
+
+.mal-import-box button {
+  padding: 4px 10px;
+  background: #2e51a2; /* MAL blue */
+  color: #fff;
+  border: 1px solid #1e3a7a;
+  border-radius: 2px;
+  cursor: pointer;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 12px;
+  transition: opacity 0.2s;
+}
+
+.mal-import-box button:hover {
+  opacity: 0.9;
+}
+
+.mal-import-box button:disabled {
+  background: #888;
+  cursor: not-allowed;
+}
+
+/* Controls */
 #controls {
   background: #fff;
   border: 1px solid #ccc;
@@ -59,6 +111,7 @@ h1 {
   display: flex;
   gap: 6px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .toggle-btn {
@@ -69,11 +122,35 @@ h1 {
   font-family: monospace;
   font-size: 12px;
   font-weight: bold;
+  border-radius: 2px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
 }
 
 .toggle-btn.active {
   background: #333;
   color: #fff;
+}
+
+.toggle-btn .user-badge {
+  font-size: 9px;
+  padding: 1px 3px;
+  border-radius: 2px;
+  background: #e8e8e8;
+  color: #333;
+}
+
+.toggle-btn.active .user-badge {
+  background: #555;
+  color: #fff;
+}
+
+.toggle-btn .remove-user-btn {
+  margin-left: 4px;
+  color: #ff5252;
+  cursor: pointer;
+  font-weight: bold;
 }
 
 #mode-bar {
@@ -98,6 +175,7 @@ h1 {
   cursor: pointer;
   font-family: monospace;
   font-size: 13px;
+  border-radius: 2px;
 }
 
 .mode-btn.active {
@@ -108,21 +186,25 @@ h1 {
 #info-bar {
   background: #fffde7;
   border: 1px solid #ccc;
-  padding: 5px 10px;
+  padding: 6px 10px;
   margin-bottom: 8px;
   font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #lists-area {
   display: flex;
-  gap: 8px;
+  gap: 10px;
   align-items: flex-start;
   overflow-x: auto;
+  padding-bottom: 10px;
 }
 
 .list-col {
   flex: 1;
-  min-width: 300px;
+  min-width: 320px;
   background: #fff;
   border: 1px solid #ccc;
 }
@@ -135,12 +217,13 @@ h1 {
   font-size: 13px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .list-header span.count {
   font-weight: normal;
   font-size: 11px;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 .list-table {
@@ -151,7 +234,7 @@ h1 {
 .list-table th {
   background: #555;
   color: #fff;
-  padding: 4px 6px;
+  padding: 5px 6px;
   text-align: left;
   font-size: 11px;
   position: sticky;
@@ -160,11 +243,11 @@ h1 {
 
 .list-table th.score-col {
   text-align: center;
-  width: 36px;
+  width: 40px;
 }
 
 .list-table td {
-  padding: 3px 6px;
+  padding: 4px 6px;
   border-bottom: 1px solid #eee;
   vertical-align: top;
 }
@@ -204,23 +287,21 @@ h1 {
 .st-D { background: #ffcdd2; color: #b71c1c; }
 .st-P { background: #e1bee7; color: #4a148c; }
 
-.compare-row td:first-child {
-  font-weight: bold;
-}
-
 .diff-pos {
   color: #00aa00;
-  font-size: 10px;
+  font-size: 11px;
+  font-weight: bold;
 }
 
 .diff-neg {
   color: #cc0000;
-  font-size: 10px;
+  font-size: 11px;
+  font-weight: bold;
 }
 
 .diff-eq {
   color: #888;
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .not-in-list {
@@ -232,10 +313,11 @@ h1 {
 #compare-area {
   background: #fff;
   border: 1px solid #ccc;
+  overflow-x: auto;
 }
 
 #compare-area .compare-header {
-  padding: 7px 10px;
+  padding: 8px 10px;
   background: #444;
   color: #fff;
   font-weight: bold;
@@ -252,7 +334,7 @@ h1 {
 #compare-area th {
   background: #555;
   color: #fff;
-  padding: 4px 8px;
+  padding: 5px 8px;
   text-align: left;
   font-size: 11px;
 }
@@ -262,7 +344,7 @@ h1 {
 }
 
 #compare-area td {
-  padding: 3px 8px;
+  padding: 4px 8px;
   border-bottom: 1px solid #eee;
 }
 
@@ -271,7 +353,7 @@ h1 {
 }
 
 .empty-msg {
-  padding: 20px;
+  padding: 24px;
   text-align: center;
   color: #888;
   font-style: italic;
